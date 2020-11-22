@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UGD10_F_9618</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="fakultas">
+        <item>FTI</item>
+        <item>FT</item>
+        <item>FH</item>
+        <item>FE</item>
+        <item>FTB</item>
+        <item>FISIP</item>
+    </string-array>
+
+    <string-array name="prodi">
+        <item>Teknik Sipil</item>
+        <item>Teknik Industri</item>
+        <item>Informatika</item>
+        <item>Ilmu Komunikasi</item>
+        <item>Sosiologi</item>
+        <item>Sistem Informasi</item>
+        <item>Manajemen</item>
+        <item>Akuntansi</item>
+        <item>Ekonomi Pembangunan</item>
+        <item>Biologi</item>
+        <item>Ilmu Hukum</item>
+        <item>Arsitektur</item>
+    </string-array>
+</resources>
